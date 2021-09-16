@@ -1,5 +1,3 @@
-# stepin_casestudy_embedded
-
 # Activity - Seat Heating Application 
 
 ### Activity 1
