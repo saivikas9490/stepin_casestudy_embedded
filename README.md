@@ -1,5 +1,5 @@
 # Seat Heating Application 
-(https://github.com/saivikas9490/stepin_casestudy_embedded/blob/main/1_Requirements/activity_list.png)
+![](https://github.com/saivikas9490/stepin_casestudy_embedded/blob/main/1_Requirements/activity_list.png)
 ## Activity 1
 To turn on led when the passenger is sitting on the seat and the heater is on.
 
