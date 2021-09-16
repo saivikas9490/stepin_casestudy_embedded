@@ -1,12 +1,12 @@
-# Activity - Seat Heating Application 
+# Seat Heating Application 
 
-### Activity 1
+## Activity 1
 To turn on led when the passenger is sitting on the seat and the heater is on.
 
-### Activity 2
+## Activity 2
 To read the values given to the ADC from the temperature sensor.
 
-### Activity 3
+## Activity 3
 To generate PWM pulses according to the ADC values and displaying it on a CRO.
 
 |ADC value|Output PWM(Duty Cycle)|Temperature|
