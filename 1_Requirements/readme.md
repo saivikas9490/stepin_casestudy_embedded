@@ -42,7 +42,7 @@ In our project, the sensor will sense is the driver has been seated or not and i
 | Low Level Requirements      | Description |
 | ----------- | ----------- |
 | HLR1_LLR1      | ATmega328     |
-| HLR2_LLR1   | LM35 and ADC|
+| HLR2_LLR1   |  ADC|
 | HLR2_LLR2   | ADC with PWM-fast|
 | HLR3_LLR1   | Thermoelectric module|
 | HLR4_LLR1   |CRO and LED|
