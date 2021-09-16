@@ -19,3 +19,4 @@ To generate PWM pulses according to the ADC values and displaying it on a CRO.
 |710-1024|90%|33°C|
 
 [![Compile-Linux](https://github.com/saivikas9490/stepin_casestudy_embedded/actions/workflows/compile.yml/badge.svg)](https://github.com/saivikas9490/stepin_casestudy_embedded/actions/workflows/compile.yml)
+[![Cppcheck](https://github.com/saivikas9490/stepin_casestudy_embedded/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saivikas9490/stepin_casestudy_embedded/actions/workflows/cppcheck.yml)
