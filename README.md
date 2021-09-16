@@ -1,5 +1,4 @@
 # Seat Heating Application 
-
 ## Activity 1
 To turn on led when the passenger is sitting on the seat and the heater is on.
 
